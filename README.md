@@ -1,10 +1,10 @@
-# Lexicon
+# Lexikon
 
 Fast, minimal browser dictionary. No bloat.
 
 ## Usage
 
-Open [https://upadhyaya-anil.github.io/lexicon](https://upadhyaya-anil.github.io/lexicon) in Safari and add to home screen.
+Open [https://upadhyaya-anil.github.io/lexikon](https://upadhyaya-anil.github.io/lexikon) in Safari and add to home screen.
 
 ## Data source
 
